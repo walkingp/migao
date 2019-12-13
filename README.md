@@ -1,2 +1,0 @@
-# migao
-vue blog
